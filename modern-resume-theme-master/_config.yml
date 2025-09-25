@@ -6,17 +6,15 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: An Yoo Jin
+title: Client Programmer
+email: j.ambitious97@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: Github.com/Jinniepoo
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
@@ -117,7 +115,7 @@ footer_show_references: true
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
